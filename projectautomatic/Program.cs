@@ -33,6 +33,14 @@ class projectautomatiation
 		IWebElement username = driver.FindElement(By.Name("txtName"));
 		username.SendKeys("Helen");
 
+		//Enters realtionship status as friend 
+		IWebElement username = driver.FindElement(By.Name("txtRelationship"));
+		username.SendKeys("Friend");
+
+		//Enters 4165885098 as mobile number
+		IWebElement username = driver.FindElement(By.Name("txtMobile"));
+		username.SendKeys("4165883098");
+
 		//Clicks Save button
 		driver.FindElement(By.CssSelector("#btnSaveEContact")).Click();
 
