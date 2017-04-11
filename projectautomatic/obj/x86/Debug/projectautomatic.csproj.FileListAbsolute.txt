@@ -1,0 +1,2 @@
+/Users/user/Projects/projectautomatic/projectautomatic/obj/x86/Debug/projectautomatic.csprojResolveAssemblyReference.cache
+/Users/user/Projects/projectautomatic/projectautomatic/obj/x86/Debug/projectautomatic.csproj.CoreCompileInputs.cache
